@@ -1,6 +1,9 @@
 <p align="center">
   <img alt="Dirac CWL Logo" src="public/CWLDiracX.png" width="300" >
+  <br/>
+⚠️ <strong>The project is now archived, as most of the content has been moved to DiracX: https://github.com/DIRACGrid/diracx<strong/>
 </p>
+
 
 # Dirac CWL Prototype
 ![Workflow tests](https://github.com/DIRACGrid/dirac-cwl/actions/workflows/main.yml/badge.svg?branch=main)
